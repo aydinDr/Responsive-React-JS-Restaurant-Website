@@ -8,4 +8,7 @@
 *<b>React Hooks</b> yapılarından<b> "useState && useEffect"</b> fonksiyonları kullanılarak <b>React DOM</b> üzerinde çalışmalar yapıldı.</br>
 *<b>Responsive</b> bir görünüm için <b>CSS de media etiketleri</b> çağrılarak<i><b>"Bilgisayar && Tablet && Telefon"</b> </i>ekranlarda tarayıcıda uygum saplayacak bir görünüm kazandırıldı.</br></p>
 
+<h3><a href="[https://www.example.com/](https://reactjs-responsive-restaurant-website.netlify.app/)">Canlı Önizleme</a></h3>
+
+
 <img src="./src/assets/screen.gif">
