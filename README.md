@@ -6,6 +6,6 @@
 
 <p>*<b>Javascript</b> de <b>React</b> kütüphanesi kullanılarak dinamik ve responsive bir restorant web sitesi tasarlandı.</br>
 *<b>React Hooks</b> yapılarından<b> "useState && useEffect"</b> fonksiyonları kullanılarak <b>React DOM</b> üzerinde çalışmalar yapıldı.</br>
-*<b>Responsive</b> bir görünüm için <b>CSS de media etiketleri</b> çağrılarak<i>"Bilgisayar && Tablet && Telefon" </i>ekranlarda tarayıcıda uygum saplayacak bir görünüm kazandırıldı.</br></p>
+*<b>Responsive</b> bir görünüm için <b>CSS de media etiketleri</b> çağrılarak<i><b>"Bilgisayar && Tablet && Telefon"</b> </i>ekranlarda tarayıcıda uygum saplayacak bir görünüm kazandırıldı.</br></p>
 
 <img src="./src/assets/screen.gif">
