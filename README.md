@@ -4,8 +4,8 @@
 
 <h3>ReactJS - HTML5 - CSS3</h3>
 
-<p>*Javascript de React kütüphanesi kullanılarak dinamik ve responsive bir restorant web sitesi tasarlandı.</br>
-*React Hooks yapılarından "useState && useEffect" fonksiyonları kullanılarak React DOM üzerinde çalışmalar yapıldı.</br>
-*Responsive bir görünüm için CSS de media etiketleri çağrılarak "Bilgisayar && Tablet && Telefon" ekranlarda tarayıcıda uygum saplayacak bir görünüm kazandırıldı.</br></p>
+<p>*<b>Javascript</b> de <b>React<b> kütüphanesi kullanılarak dinamik ve responsive bir restorant web sitesi tasarlandı.</br>
+*<b>React Hooks</b> yapılarından<b> "useState && useEffect"</b> fonksiyonları kullanılarak <b>React DOM</b> üzerinde çalışmalar yapıldı.</br>
+*<b>Responsive</b> bir görünüm için <b>CSS de media etiketleri</b> çağrılarak<i>"Bilgisayar && Tablet && Telefon" </i>ekranlarda tarayıcıda uygum saplayacak bir görünüm kazandırıldı.</br></p>
 
 <img src="./src/assets/screen.gif">
